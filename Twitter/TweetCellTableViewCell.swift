@@ -2,7 +2,7 @@
 //  TweetCellTableViewCell.swift
 //  Twitter
 //
-//  Created by Catalina Bedoya on 9/24/21.
+//  Created by Jessie Lin on 9/24/21.
 //  Copyright © 2021 Dan. All rights reserved.
 //
 
